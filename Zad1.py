@@ -3,9 +3,9 @@ import matplotlib
 matplotlib.use('TkAgg')
 import matplotlib.pyplot as plt
 
-samples_num = 100000 #00
+samples_num = 1000 #00
 dim_min = 1
-dim_max = 15 #0000
+dim_max = 25 #0000
 repetitions_num = 20
 X = 1
 results = {}
